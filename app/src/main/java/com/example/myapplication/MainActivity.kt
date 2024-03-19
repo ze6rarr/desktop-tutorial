@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         elements = QueueElements(binding)
         val n = 6
+        val k = 3
     }
 
     fun skip(view: View) {
