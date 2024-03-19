@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Quick Delivery At Your Doorstep</string>
+    <string name="description">Enjoy quick pick-up and delivery to your destination</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+</resources>
